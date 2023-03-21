@@ -1,0 +1,15 @@
+C:\Users\A1\source\repos\ArrayEx1\obj\Debug\net6.0\ArrayEx1.csproj.AssemblyReference.cache
+C:\Users\A1\source\repos\ArrayEx1\obj\Debug\net6.0\ArrayEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A1\source\repos\ArrayEx1\obj\Debug\net6.0\ArrayEx1.AssemblyInfoInputs.cache
+C:\Users\A1\source\repos\ArrayEx1\obj\Debug\net6.0\ArrayEx1.AssemblyInfo.cs
+C:\Users\A1\source\repos\ArrayEx1\obj\Debug\net6.0\ArrayEx1.csproj.CoreCompileInputs.cache
+C:\Users\A1\source\repos\ArrayEx1\bin\Debug\net6.0\ArrayEx1.exe
+C:\Users\A1\source\repos\ArrayEx1\bin\Debug\net6.0\ArrayEx1.deps.json
+C:\Users\A1\source\repos\ArrayEx1\bin\Debug\net6.0\ArrayEx1.runtimeconfig.json
+C:\Users\A1\source\repos\ArrayEx1\bin\Debug\net6.0\ArrayEx1.dll
+C:\Users\A1\source\repos\ArrayEx1\bin\Debug\net6.0\ArrayEx1.pdb
+C:\Users\A1\source\repos\ArrayEx1\obj\Debug\net6.0\ArrayEx1.dll
+C:\Users\A1\source\repos\ArrayEx1\obj\Debug\net6.0\refint\ArrayEx1.dll
+C:\Users\A1\source\repos\ArrayEx1\obj\Debug\net6.0\ArrayEx1.pdb
+C:\Users\A1\source\repos\ArrayEx1\obj\Debug\net6.0\ArrayEx1.genruntimeconfig.cache
+C:\Users\A1\source\repos\ArrayEx1\obj\Debug\net6.0\ref\ArrayEx1.dll
